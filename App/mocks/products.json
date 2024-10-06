@@ -1,0 +1,18 @@
+[
+  {
+    "id": 1,
+    "product_code": "sample_01",
+    "name": "Sample 01",
+    "description": "Sample 01 description",
+    "price": 100.00,
+    "currency": "AUD"
+  },
+  {
+    "id": 2,
+    "product_code": "sample_02",
+    "name": "Sample 02",
+    "description": "Sample 02 description",
+    "price": 200.00,
+    "currency": "AUD"
+  }
+]
